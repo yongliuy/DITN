@@ -13,8 +13,7 @@ Fangmin Chen,
 Lean Fu, 
 Fei Wang<br/>
 
-[arXiv](https://arxiv.org/abs/2112.10752) | [BibTeX](#bibtex) 
-
+[arXiv](https://github.com/yongliuy/DITN) | [BibTeX](#bibtex) 
 
 
 :sparkling_heart: If ResShift is helpful to your researchs or projects, please help star this repo. Thanks! :hugs: 
