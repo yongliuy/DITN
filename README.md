@@ -61,7 +61,7 @@ pip3 install -r requirements.txt
 # Demo on evaluation dataset
 [<img src="assets/imgsli_5.jpg" height="280px"/>](https://imgsli.com/MTk1NjE2) [<img src="assets/imgsli_2.jpg" height="280px"/>](https://imgsli.com/MTk1NjIz)
 
-[<img src="assets/imgsli_3.jpg" height="325px"/>](https://imgsli.com/MTk1NjI1) [<img src="assets/imgsli_4.jpg" height="325px">](https://imgsli.com/MTk1NjI2)
+[<img src="assets/imgsli_3.jpg" height="260px"/>](https://imgsli.com/MTk1NjI1) [<img src="assets/imgsli_4.jpg" height="260px">](https://imgsli.com/MTk1NjI2)
 
 
 # Pretrained Models
