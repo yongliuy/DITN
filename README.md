@@ -69,7 +69,7 @@ pip3 install -r requirements.txt
 [<img src="assets/imgsli_8.jpg" height="265px"/>](https://imgsli.com/MTk1NjUy) [<img src="assets/imgsli_9.jpg" height="265px">](https://imgsli.com/MTk1NjUz)
 
 ## Pretrained Models
-Download the DITN pretrained models from [Google Drive](https://drive.google.com/drive/folders/1XpHW27H5j2S4IH8t4lccgrgHkIjqrS-X?usp=drive_link).
+- Download the DITN pretrained models from [Google Drive](https://drive.google.com/drive/folders/1XpHW27H5j2S4IH8t4lccgrgHkIjqrS-X?usp=drive_link).
 
 
 ## Running Examples
