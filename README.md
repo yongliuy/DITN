@@ -16,7 +16,7 @@ Lean Fu,
 [arXiv](https://github.com/yongliuy/DITN) | [BibTeX](#bibtex) 
 
 
-:sparkling_heart: If ResShift is helpful to your researches or projects, please help star this repo. Thanks! :hugs: 
+:sparkling_heart: If DITN is helpful to your researches or projects, please help star this repository. Thanks! :hugs: 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yongliuy/DITN) 
 
@@ -38,7 +38,7 @@ Extensive experiments show that our models can achieve competitive results in te
 
 
 ## Update
-- **2023.07.06**: Create this repo.
+- **2023.07.06**: Create this repository.
 
 ## TODO
 - [ ] New project website
