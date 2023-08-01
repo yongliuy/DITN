@@ -42,10 +42,10 @@ Extensive experiments show that our models can achieve competitive results in te
 
 ## TODO
 - [ ] New project website
-- [ ] The training codes and scripts
-- [ ] The deployment details
+- [ ] The training scripts
+- [ ] The model deployment guide
 - [x] ~~Releasing pretrained models~~
-- [x] ~~The inference codes and scripts~~
+- [x] ~~The inference scripts~~
 
 
 
