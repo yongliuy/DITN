@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ditn_logo.png" height=40>
+  <img src="./assets/ditn_logo.png" height=35>
 </p>
 
 # Unfolding Once is Enough: A Deployment-Friendly Transformer Unit for Super-Resolution
