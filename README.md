@@ -42,10 +42,9 @@ Extensive experiments show that our models can achieve competitive results in te
 
 # TODO
 - [ ] New project website
-- [ ] Releasing more pretrained models
 - [ ] The training codes and scripts
 - [ ] The deployment details
-- [x] ~~Releasing pretrained models of DITN-Real~~
+- [x] ~~Releasing pretrained models~~
 - [x] ~~The inference codes and scripts~~
 
 
@@ -70,8 +69,10 @@ pip3 install -r requirements.txt
 [<img src="assets/imgsli_8.jpg" height="260px"/>](https://imgsli.com/MTk1NjUy) [<img src="assets/imgsli_9.jpg" height="260px">](https://imgsli.com/MTk1NjUz)
 
 # Pretrained Models
-A general list of all available checkpoints is available in via our [model zoo](#model-zoo).
-If you use any of these models in your work, we are always happy to receive a [citation](#bibtex).
+Download the DITN pretrained models from [Google Drive](https://drive.google.com/drive/folders/1XpHW27H5j2S4IH8t4lccgrgHkIjqrS-X?usp=drive_link).
+
+
+
 
 ## Retrieval Augmented Diffusion Models
 ![rdm-figure](assets/rdm-preview.jpg)
