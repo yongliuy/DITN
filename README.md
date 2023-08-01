@@ -41,7 +41,7 @@ Extensive experiments show that our models can achieve competitive results in te
 - **2023.07.06**: Create this repo.
 
 # TODO
-- [ ] Project website
+- [ ] New project website
 - [ ] Releasing more pretrained models
 - [ ] The training codes and scripts
 - [ ] The deployment details
