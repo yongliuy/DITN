@@ -58,7 +58,7 @@ pip3 install -r requirements.txt
 ```
 
 ## Applications
-### :star: Demo on Base Evaluation Dataset
+### :snowboarder: Demo on Base Evaluation Dataset
 [<img src="assets/imgsli_1.jpg" height="280px"/>](https://imgsli.com/MTk1NjE2) [<img src="assets/imgsli_2.jpg" height="280px"/>](https://imgsli.com/MTk1NjIz)
 [<img src="assets/imgsli_3.jpg" height="260px"/>](https://imgsli.com/MTk1NjI1) [<img src="assets/imgsli_4.jpg" height="260px">](https://imgsli.com/MTk1NjI2)
 
