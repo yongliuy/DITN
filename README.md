@@ -44,7 +44,8 @@ Extensive experiments show that our models can achieve competitive results in te
 # TODO
 - [ ] Project website
 - [ ] The deployment scripts
-- [x] ~~Releasing the pretrained models~~
+- [ ] Releasing more pretrained models
+- [x] ~~Releasing pretrained models of DITN-Real~~
 - [x] ~~The training and inference scripts~~
 
 
