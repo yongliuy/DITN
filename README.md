@@ -93,7 +93,7 @@ DITN/$CUDA_VISIBLE_DEVICES=<GPU_ID> python test.py --scale [2|3|4] --indir [the 
 This work was supported in part by the National Key Research and Development Program of China under Grant 2022YFB3303800, in part by National Major Science and Technology Projects of China under Grant 2019ZX01008101.
 
 ## BibTeX
-
+If you find this project useful for your research, please use the following BibTeX entry.
 ```
 @misc{liu2023unfolding,
   title={Unfolding Once is Enough: A Deployment-Friendly Transformer Unit for Super-Resolution},
