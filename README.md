@@ -86,7 +86,7 @@ DITN/$CUDA_VISIBLE_DEVICES=<GPU_ID> python test.py --scale [2|3|4] --indir [the 
 ```
 
 ## How to Deployment in Realistic Scenarios
-- coming soon...
+- Coming soon...
 
 
 ## Acknowledgement
