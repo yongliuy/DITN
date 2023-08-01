@@ -57,13 +57,13 @@ conda activate ditn
 pip3 install -r requirements.txt
 ```
 
-
-## Demo on Base Evaluation Dataset
+## Applications
+### Demo on Base Evaluation Dataset
 [<img src="assets/imgsli_1.jpg" height="280px"/>](https://imgsli.com/MTk1NjE2) [<img src="assets/imgsli_2.jpg" height="280px"/>](https://imgsli.com/MTk1NjIz)
 [<img src="assets/imgsli_3.jpg" height="260px"/>](https://imgsli.com/MTk1NjI1) [<img src="assets/imgsli_4.jpg" height="260px">](https://imgsli.com/MTk1NjI2)
 
 
-## Demo on Real-world Image SR
+### Demo on Real-world Image SR
 [<img src="assets/imgsli_5.jpg" height="266px"/>](https://imgsli.com/MTk1NjQ4)
 [<img src="assets/imgsli_6.jpg" height="266px"/>](https://imgsli.com/MTk1NjUw) [<img src="assets/imgsli_7.jpg" height="265px">](https://imgsli.com/MTk1NjUx)
 [<img src="assets/imgsli_8.jpg" height="265px"/>](https://imgsli.com/MTk1NjUy) [<img src="assets/imgsli_9.jpg" height="265px">](https://imgsli.com/MTk1NjUz)
