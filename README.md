@@ -74,7 +74,7 @@ pip3 install -r requirements.txt
 
 ## Running Examples
 
-- Prepare the test images and run the ``DITN/test.py`` with cuda on command line: 
+- Prepare your test images and run the ``DITN/test.py`` with cuda on command line: 
 ### :rocket: Bicubic Image Super-resolution
 ```bash
 DITN/$CUDA_VISIBLE_DEVICES=<GPU_ID> python test.py --scale [2|3|4] --indir [the path of LR images] --outdir [the path of HR results] --model_path [the path of the pretrained model]/DITN_[ |Tiny|Real]_[x2|x3|x4].pth
