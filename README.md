@@ -33,7 +33,7 @@ Based on UFONE, we propose a Deployment-friendly Inner-patch Transformer Network
 Furthermore, to further boost the deployment efficiency of the proposed DITN on TensorRT, we also provide an efficient substitution for layer normalization and propose a fusion optimization strategy for specific operators. 
 Extensive experiments show that our models can achieve competitive results in terms of qualitative and quantitative performance with high deployment efficiency.
 <p align="center">
-<img src=assets/network.png width="1000px"/>
+<img src=assets/method.png width="1000px"/>
 </p>
 
 
