@@ -16,7 +16,7 @@ Lean Fu,
 [arXiv](https://github.com/yongliuy/DITN) | [BibTeX](#bibtex) 
 
 
-:sparkling_heart: If DITN is helpful to your researches or projects, please help star this repository. Thanks! :hugs: 
+:sparkling_heart: If our DITN is helpful to your researches or projects, please help star this repository. Thanks! :hugs: 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yongliuy/DITN) 
 
