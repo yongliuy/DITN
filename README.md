@@ -85,7 +85,7 @@ DITN/$CUDA_VISIBLE_DEVICES=<GPU_ID> python test.py --scale [2|3|4] --indir [the 
 DITN/$CUDA_VISIBLE_DEVICES=<GPU_ID> python test.py --scale [2|3|4] --indir [the path of LR images] --outdir [the path of HR results] --model_path [the path of the pretrained model]/DITN_Real_GAN_[x2|x3|x4].pth
 ```
 
-## Deployment on TensorRT (with operator optimization) and CoreML
+## How to Deployment in Realistic Scenarios
 - coming soon...
 
 
