@@ -97,7 +97,7 @@ If you find this project useful for your research, please use the following BibT
 ```
 @misc{liu2023unfolding,
   title={Unfolding Once is Enough: A Deployment-Friendly Transformer Unit for Super-Resolution},
-  author={Yong Liu, Hang Dong, Boyang Liang, Songwei Liu, Qingji Dong, Kai Chen, Fangmin Chen, Lean Fu, Fei Wang},
+  author={Yong Liu, Hang Dong, Boyang Liang, Songwei Liu, Qingji Dong, Kai Chen, Fangmin Chen, Lean Fu, and Fei Wang},
   booktitle={The 31st ACM International Conference on Multimedia},
   year={2023}
 }
