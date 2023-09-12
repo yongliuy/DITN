@@ -19,7 +19,7 @@ Lean Fu,
 :sparkling_heart: If our DITN is helpful to your researches or projects, please help star this repository. Thanks! :hugs: 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yongliuy/DITN) 
-
+<img alt="GitHub" src="https://img.shields.io/badge/license-Apache_2.0-brightgreen">
 
 
 >Recent years have witnessed a few attempts of vision transformers for single image super-resolution (SISR). 
