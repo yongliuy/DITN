@@ -94,7 +94,7 @@ This work was supported in part by the National Key Research and Development Pro
 
 
 ## License
-This project is released under the [Apache 2.0 license](./LICENSE.txt). Redistribution and use should follow this license.
+This project is released under the [Apache 2.0 license](./LICENSE). Redistribution and use should follow this license.
 
 
 ## BibTeX
