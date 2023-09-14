@@ -20,6 +20,7 @@ Lean Fu,
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yongliuy/DITN) 
 <img alt="GitHub" src="https://img.shields.io/badge/license-Apache_2.0-brightgreen">
+[![GitHub Stars](https://img.shields.io/github/stars/yongliuy/DITN?style=social)](https://github.com/yongliuy/DITN/)
 
 
 >Recent years have witnessed a few attempts of vision transformers for single image super-resolution (SISR). 
