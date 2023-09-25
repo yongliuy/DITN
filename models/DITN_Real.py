@@ -189,9 +189,9 @@ class UFONE(nn.Module):
         local_features = local_features.permute(0, 2, 4, 1, 3, 5).contiguous().view(-1, C, self.patch_size, self.patch_size)
         local_features = self.ITLs(local_features)
         local_features = local_features.view(B, H//self.patch_size, W//self.patch_size, C, self.patch_size, self.patch_size)
-        local_features = local_features.permute(0, 3, 1, 4, 2, 5).contiguous().view(B,C,H,W)
-        local_features = self.SALs(local_features)
-        return local_features
+        global_features = local_features.permute(0, 3, 1, 4, 2, 5).contiguous().view(B,C,H,W)
+        global_features = self.SALs(global_features)
+        return global_features
     
 
 class DITN_Real(nn.Module):
