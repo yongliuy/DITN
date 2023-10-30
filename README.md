@@ -13,7 +13,7 @@ Fangmin Chen,
 Lean Fu, 
 [Fei Wang](http://www.aiar.xjtu.edu.cn/info/1046/1242.htm)<br/>
 
-[arXiv](https://arxiv.org/abs/2308.02794) | [BibTeX](#bibtex) 
+[arXiv](https://arxiv.org/abs/2308.02794) | [Paper](https://dl.acm.org/doi/10.1145/3581783.3612128) | [Poster](./assets/ditn_logo.png) | [BibTeX](#bibtex) 
 
 
 :sparkling_heart: If our DITN is helpful to your researches or projects, please help star this repository. Thanks! :hugs: 
