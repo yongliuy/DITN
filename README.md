@@ -3,10 +3,10 @@
 </p>
 
 # Unfolding Once is Enough: A Deployment-Friendly Transformer Unit for Super-Resolution
-[Yong Liu](https://github.com/yongliuy), 
-[Hang Dong](https://github.com/BookerDeWitt), 
-Boyang Liang, 
-Songwei Liu, 
+[Yong Liu](https://scholar.google.com/citations?user=DT0LPIEAAAAJ&hl=en&oi=sra), 
+[Hang Dong](https://scholar.google.com/citations?user=4DKepr8AAAAJ&hl=en&oi=sra), 
+[Boyang Liang](https://scholar.google.com/citations?user=6wsdO2oAAAAJ&hl=en&oi=sra), 
+[Songwei Liu](https://scholar.google.com/citations?user=crxAeIEAAAAJ&hl=en&oi=sra), 
 Qingji Dong, 
 Kai Chen, 
 Fangmin Chen, 
