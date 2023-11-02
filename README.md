@@ -101,10 +101,11 @@ This project is released under the [Apache 2.0 license](./LICENSE). Redistributi
 ## BibTeX
 If you find this project useful for your research, please use the following BibTeX entry.
 ```
-@misc{liu2023unfolding,
+@inproceedings{liu2023unfolding,
   title={Unfolding Once is Enough: A Deployment-Friendly Transformer Unit for Super-Resolution},
-  author={Yong Liu, Hang Dong, Boyang Liang, Songwei Liu, Qingji Dong, Kai Chen, Fangmin Chen, Lean Fu, and Fei Wang},
+  author={Liu, Yong and Dong, Hang and Liang, Boyang and Liu, Songwei and Dong, Qingji and Chen, Kai and Chen, Fangmin and Fu, Lean and Wang, Fei},
   booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={7952--7960},
   year={2023}
 }
 ```
